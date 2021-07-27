@@ -1,0 +1,42 @@
+#sidebar {
+position: fixed;
+z-index: 1;
+background-color: #8A2BE2;
+height: 100%;
+width: 160px;
+top: 0;
+left: 0;
+}
+
+nav {
+   text-align: center;
+   position: absolute;
+   top: 50%;
+   left: 30%;
+
+}
+a {
+    display: block;
+    color: #F0F8FF;
+    text-decoration: none;
+}
+a:hover {
+        color: #4B0082;
+}
+
+ #main {
+    margin-left: 160px;
+    padding: 0px 10px;
+    height: 100vh;
+    background-color: bisque;
+ }
+
+ h1, p {
+     text-align: center;
+ }
+ img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
