@@ -1,6 +1,6 @@
-# Personal Portfolio Site
+# Developer portfolio template
 
-This portfolio site has 3 pages:
+This template has 3 pages:
 
 1. Home
 2. Contacts
